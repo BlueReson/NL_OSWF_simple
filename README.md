@@ -1,0 +1,2 @@
+# NL_OSWF_simple
+ Simple web-viewer: containing; the Layers OpenStreetMap as backdrop & Normalised Windfarm data for Dutch sector of the North-Sea. The data Windmills are downloaded from EMODNET, the EU wide datased is clipped by the extend of the Dutch EEZ and further Normalised (4NF+) in PGADMIN (PostgreSQL) and the data is published with qgis2web.  Part of the Assignment Datamanagement (Hydrography CAT-A)
